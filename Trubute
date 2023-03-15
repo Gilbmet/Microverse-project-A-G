@@ -1,33 +1,32 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <title>Dr. Norman Borlaug Tribute Page</title>
+<main>
     <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-
+    <title>Sir Lewis Hamilton</title>
+   
 <body>
     <header>
-        <h1>Dr. Norman Borlaug</h1>
-        <h2>The Man Who Saved a Billion Lives</h2>
+        <h1>Sir Lewis Hamilton</h1>
+        <h2>The Greatest of All Time</h2>
+        <figure id="img-div">
+        <img id="image" src="https://media.cnn.com/api/v1/images/stellar/prod/211215081042-01-lewis-hamilton-knighthood.jpg?c=16x9&q=h_720,w_1280,c_fill">
+        <figcaption id="img-caption">
+          Hamilton is made a Knight Bachelor by Prince Charles.
+        </figcaption>
+      </figure>
+    <section id="tribute-info">
+        
+          <a id="tribute-link" href="https://edition.cnn.com/2021/10/22/motorsport/lewis-hamilton-tom-brady-goat-spt-intl/index.html" target="_blank"> For more on the GOAT click here CNN</a>
+        </h3>
+      </section>
+    
     </header>
-    <main>
-        <section id="bio">
-            <h3>Biography</h3>
-            <ul>
-                <li><strong>1914:</strong> Born in Cresco, Iowa</li>
-                <li><strong>1933:</strong> Leaves his family's farm to attend the University of Minnesota, thanks to a Depression era program known as the "National Youth Administration"</li>
-                <li><strong>1935:</strong> Has to stop school and save up more money. Works in the Civilian Conservation Corps, helping starving Americans. "I saw how food changed them", he said. "All of this left scars on me."</li>
-                <li><strong>1937:</strong> Finishes university and takes a job in the US Forestry Service</li>
-                <li><strong>1938:</strong> Marries wife of 69 years Margret Gibson. Gets laid off due to budget cuts. Inspired by Elvin Charles Stakman, he returns to school study under Stakman, who teaches him about breeding pest-resistent plants.</li>
-                <li><strong>1941:</strong> Tries to enroll in the military after the Pearl Harbor attack, but is rejected. Instead, the military asked his lab to work on waterproof glue, DDT to control malaria, disinfectants, and other applied science.</li>
-                <li><strong>1942:</strong> Receives a Ph.D. in Genetics and Plant Pathology</li>
-                <li><strong>1944:</strong> Rejects a 100% salary increase from Dupont, leaves behind his pregnant wife, and flies to Mexico to head a new plant pathology program. Over the next 16 years, his team breeds 6,000 different strains of disease resistent
-                    wheat - including different varieties for each major climate on Earth.</li>
-                <li><strong>1945:</strong> Discovers a way to grown wheat twice each season, doubling wheat yields</li>
-                <li><strong>1953:</strong> Crosses a short, sturdy dwarf breed of wheat with a high-yeidling American breed, creating a strain that responds well to fertilizer. It goes on to provide 95% of Mexico's wheat.</li>
-                <li><strong>1962:</strong> Visits Delhi and brings his high-yielding strains of wheat to the Indian subcontinent in time to help mitigate mass starvation due to a rapidly expanding population</li>
-                <li><strong>1970:</strong> Receives the Nobel Peace Prize</li>
-                <li><strong>1983:</strong> Helps seven African countries dramatically increase their maize and sorghum yields</li>
-                <li><strong>1984:</strong> Becomes a distinguished professor at Texas A&M University</li>
-                <li><strong>2005:</strong> States "we will have to double the world food supply by 2050." Argues that genetically modified crops are the only way we can meet the demand, as we run out of arable land.
+            <section id="bio">
+            <h3>Tribute</h3>
+            <p>Tribute to Lewis Hamilton by Stuart McIntyre.
+
+The career of Lewis Hamilton started in 1993 when he was 8 years old. By the age of 10, he had won his first British Kart Championship and was crowned Karting World No.1 in 200 at the age of 15 - the youngest ever Karting World No.1. After leaving karting, he took European motor racing by storm by winning the British Formula Renault Championship in 2003, the F3 Euroseries Championship in 2005 and the GP2 Series Championship in 2006. He made his Formula 1 debut at the 2007 Australian Grand Prix and after 17 Grand Prix starts accumulated 109 points during a record-breaking rookie season, during which he had 4 Grand Prix wins, 6 Pole Positions and 12 Podium finishes - some rookie! In his second season, he won the Formula 1 championship after one of the most breathtaking finishes to Grand Prix in Brazil, snatching the required points on the last corner after the rain came just laps from the end of the race. A worthy champion!</p>
+            
+        </section>
+</main>        
