@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html>
 
-<main>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <title>Sir Lewis Hamilton</title>
+<main id="main">
+    <head><link rel="stylesheet" href="styles.css">
+    </head>
+    <div id= "title">Sir Lewis Hamilton</title>
    
 <body>
     <header>
         <h1>Sir Lewis Hamilton</h1>
         <h2>The Greatest of All Time</h2>
         <figure id="img-div">
-        <img id="image" src="https://media.cnn.com/api/v1/images/stellar/prod/211215081042-01-lewis-hamilton-knighthood.jpg?c=16x9&q=h_720,w_1280,c_fill">
+        <img id="image" src="https://media.cnn.com/api/v1/images/stellar/prod/211215081042-01-lewis-hamilton-knighthood.jpg?">
         <figcaption id="img-caption">
           Hamilton is made a Knight Bachelor by Prince Charles.
         </figcaption>
@@ -22,10 +23,13 @@
       </section>
     
     </header>
-                     
-            <p><strong>Tribute to Lewis Hamilton by Stuart McIntyre.</strong></p><br><br>
+           
+            
+            <p><strong>Tribute to Lewis Hamilton by Stuart McIntyre.</strong> <br><br>
 
 The career of Lewis Hamilton started in 1993 when he was 8 years old. By the age of 10, he had won his first British Kart Championship and was crowned Karting World No.1 in 200 at the age of 15 - the youngest ever Karting World No.1. After leaving karting, he took European motor racing by storm by winning the British Formula Renault Championship in 2003, the F3 Euroseries Championship in 2005 and the GP2 Series Championship in 2006. He made his Formula 1 debut at the 2007 Australian Grand Prix and after 17 Grand Prix starts accumulated 109 points during a record-breaking rookie season, during which he had 4 Grand Prix wins, 6 Pole Positions and 12 Podium finishes - some rookie! In his second season, he won the Formula 1 championship after one of the most breathtaking finishes to Grand Prix in Brazil, snatching the required points on the last corner after the rain came just laps from the end of the race. A worthy champion!</p>
             
         </section>
 </main>        
+
+   
